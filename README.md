@@ -11,7 +11,8 @@ Basic CRUD Operations: Create, Read, Update, Delete operations are fundamental i
 
 3. Data Aggregation: SQL queries such as GROUP BY, COUNT(), SUM(), and AVG() are used to analyze sales data, identify the best-selling pizzas, and aggregate customer feedback for better decision-making.
 
-4.Joins and Subqueries: To generate comprehensive reports, various SQL JOIN techniques (INNER JOIN, LEFT JOIN, etc.) have been employed to link different tables like orders, customers, and inventory. Subqueries could help in more complex filtering and data retrieval.
+ 4.Joins and Subqueries: To generate comprehensive reports, various SQL JOIN techniques (INNER JOIN, LEFT JOIN, etc.) have been employed to link different tables like orders, customers, and inventory. Subqueries 
+  could help in more complex filtering and data retrieval.
 
 5. Data Analysis Tools
 Data Aggregation & Reporting: SQL is used to aggregate sales data and identify trends, such as the top 5 best-selling pizzas mentioned in the project. Reports might have been generated using SQL queries to provide insight into business operations.
